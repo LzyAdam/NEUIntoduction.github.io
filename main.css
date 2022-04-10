@@ -1,0 +1,88 @@
+html{
+   
+}
+
+
+body{
+    background-color: #2f3035;
+    background-image: url(images/image7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    /* 自适应大小背景图片 */
+}
+.container{
+    margin-left: auto;/*左右间距*/
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+header{
+    
+    
+    
+    text-align: center;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.664);
+    
+    text-align: center;/*居中 */
+    padding-top: 14px;
+    padding-bottom: 14px;
+     
+    
+}
+main{
+    
+   
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+footer{
+    background-color: rgba(8, 8, 8, 0.842);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+h1{
+    font-size: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+p{
+    font-size: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;/*字体*/
+    
+    /* text-decoration: none;干掉下划线 */
+    
+}
+nav a{
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+footer p{
+    font-size: 10px;
+    text-align: center;
+    color: aliceblue;
+
+
+
+}
+.maps{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+}
